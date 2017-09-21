@@ -21,6 +21,7 @@
 入力値を引数に取り、結果を標準出力に出力するCLIアプリケーションとして解答を実装してください。
 CLIの実装方法については[指定言語].mdを参照ください。
 
+<<<<<<< HEAD
 #### 入力ルール
 - {{入力の詳細}}
 - ...
@@ -36,6 +37,20 @@ $ {{CLIアプリ名}} {{引数}}
 ```
 
 なお、期待する入出力は [test/](./test/) ディレクトリにいくつか定義されています。  
+=======
+1	How does Ruby on Rails use the Model View Controller (MVC) framework?
+2	What is route? What is the purposes of the resources method in the route?
+3	Explain POST/PUT/PATCH
+4	What is a module? Describe the difference between classes and modules?
+5	Explain module extends and include
+6	What is Gem? List up at least 3 gems and describe its purposes
+7	Explain this ruby idiom: a ||= b
+8	What is scopes? what is the main difference between scopes and class methods?
+9	How many ways to connect string in Ruby? Describe all of them
+10	.nil? .empty? .blank? vs .present? (Describe for each type of varialbles)
+11	Design small system in which users can list songs, albums, singers. A song can be sung by many singers. Design a technical solution so that users can view 10 most viewed songs.
+  
+>>>>>>> TaiBranch
 実装する際の参考にしてください。
 
 ## Answer.md
